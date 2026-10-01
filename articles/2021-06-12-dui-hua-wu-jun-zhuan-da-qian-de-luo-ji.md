@@ -1,3 +1,10 @@
+---
+title: "对话吴军：赚大钱的逻辑"
+tags: [赚钱]
+source: "https://www.huxiu.com/article/434479.html"
+date: 2021-06-12
+---
+
 > **来源页面**：[https://www.huxiu.com/article/434479.html](https://www.huxiu.com/article/434479.html)  
 > **站点元信息**：虎嗅网 · 正和岛 · 2021-06-12 14:55  
 > **说明**：以下正文按源页面忠实转写为 Markdown，未改写或删减。
@@ -5,7 +12,7 @@
 
 # 对话吴军：赚大钱的逻辑
 
-![对话吴军：赚大钱的逻辑](./cover.jpg)
+![对话吴军：赚大钱的逻辑](../assets/dui-hua-wu-jun-zhuan-da-qian-de-luo-ji/cover.jpg)
 
 来 源：[正和岛（ID：zhenghedao）](https://mp.weixin.qq.com/s?__biz=MjM5ODAxODQ0MA==&mid=2651170041&idx=1&sn=7f2f8a116fd12712ad932218b40d1c57&chksm=bd20281e8a57a1089a2b594e4045e83d84b06dcbc6504c62036067dab08a95607a2902593434&mpshare=1&scene=1&srcid=0612QPnthv0BBMG7Gkv0wnWI&sharer_sharetime=1623479992624&sharer_shareid=ff2592503f520baa4b1cc2a4ca99fbe3&version=3.1.6.70013&platform=mac#rd)
 

@@ -1,6 +1,6 @@
-# blog
+# Reading
 
-个人博客文章合集：正文 Markdown 在 `content/posts/`，配图在 `content/media/`。主题用 front matter 的 `tags` 标记。
+阅读笔记与文章合集：正文 Markdown 在 `content/posts/`，配图在 `content/media/`。主题用 front matter 的 `tags` 标记。
 
 ## 按时间
 
@@ -24,7 +24,7 @@
 ## 目录结构
 
 ```
-blog/
+Reading/
   README.md
   content/
     posts/              # YYYY-MM-DD-slug.md（YAML front matter）
